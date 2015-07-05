@@ -136,7 +136,7 @@ the Rust stable 1.2 release.
 
 * [`tempdir-0.3.4`](https://crates.io/crates/tempdir/0.3.4)
 
-* [`time-0.1.3`](https://crates.io/crates/time/0.1.3)
+* [`time-0.1.30`](https://crates.io/crates/time/0.1.30)
 
 * [`toml-0.1.21`](https://crates.io/crates/toml/0.1.21)
 
